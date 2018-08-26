@@ -9,7 +9,9 @@ namespace Variables
             byte number = 2;
             int count = 10;
             float totalPrice = 20.95f;
-
+            char character = 'A';
+            string firstName = "Ryan";
+            bool isWorking = false;
             Console.WriteLine(number);
         }
     }
