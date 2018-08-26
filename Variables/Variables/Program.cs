@@ -6,7 +6,9 @@ namespace Variables
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+            const float Pi = 3.14f;
+            Pi = 1;
+
 
         }
     }
