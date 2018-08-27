@@ -1,0 +1,11 @@
+/Users/Admin/Desktop/CVariables/Operators/Operators/bin/Debug/netcoreapp2.1/Operators.deps.json
+/Users/Admin/Desktop/CVariables/Operators/Operators/bin/Debug/netcoreapp2.1/Operators.runtimeconfig.json
+/Users/Admin/Desktop/CVariables/Operators/Operators/bin/Debug/netcoreapp2.1/Operators.runtimeconfig.dev.json
+/Users/Admin/Desktop/CVariables/Operators/Operators/bin/Debug/netcoreapp2.1/Operators.dll
+/Users/Admin/Desktop/CVariables/Operators/Operators/bin/Debug/netcoreapp2.1/Operators.pdb
+/Users/Admin/Desktop/CVariables/Operators/Operators/obj/Debug/netcoreapp2.1/Operators.csprojAssemblyReference.cache
+/Users/Admin/Desktop/CVariables/Operators/Operators/obj/Debug/netcoreapp2.1/Operators.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/CVariables/Operators/Operators/obj/Debug/netcoreapp2.1/Operators.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/CVariables/Operators/Operators/obj/Debug/netcoreapp2.1/Operators.AssemblyInfo.cs
+/Users/Admin/Desktop/CVariables/Operators/Operators/obj/Debug/netcoreapp2.1/Operators.dll
+/Users/Admin/Desktop/CVariables/Operators/Operators/obj/Debug/netcoreapp2.1/Operators.pdb
