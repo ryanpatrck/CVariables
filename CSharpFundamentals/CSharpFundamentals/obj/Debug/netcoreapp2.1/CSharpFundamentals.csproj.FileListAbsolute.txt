@@ -1,0 +1,11 @@
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.deps.json
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.runtimeconfig.json
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.runtimeconfig.dev.json
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.dll
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/bin/Debug/netcoreapp2.1/CSharpFundamentals.pdb
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.csprojAssemblyReference.cache
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.AssemblyInfo.cs
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.dll
+/Users/Admin/Desktop/CVariables/CSharpFundamentals/CSharpFundamentals/obj/Debug/netcoreapp2.1/CSharpFundamentals.pdb
