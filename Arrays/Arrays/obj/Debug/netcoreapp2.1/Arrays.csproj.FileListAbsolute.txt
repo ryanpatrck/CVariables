@@ -1,0 +1,11 @@
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/bin/Debug/netcoreapp2.1/Arrays.deps.json
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/bin/Debug/netcoreapp2.1/Arrays.runtimeconfig.json
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/bin/Debug/netcoreapp2.1/Arrays.runtimeconfig.dev.json
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/bin/Debug/netcoreapp2.1/Arrays.dll
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/bin/Debug/netcoreapp2.1/Arrays.pdb
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/obj/Debug/netcoreapp2.1/Arrays.csprojAssemblyReference.cache
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/obj/Debug/netcoreapp2.1/Arrays.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/obj/Debug/netcoreapp2.1/Arrays.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/obj/Debug/netcoreapp2.1/Arrays.AssemblyInfo.cs
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/obj/Debug/netcoreapp2.1/Arrays.dll
+/Users/Admin/Desktop/CVariables/Arrays/Arrays/obj/Debug/netcoreapp2.1/Arrays.pdb
