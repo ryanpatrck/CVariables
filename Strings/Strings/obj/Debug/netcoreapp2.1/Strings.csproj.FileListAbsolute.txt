@@ -1,0 +1,11 @@
+/Users/Admin/Desktop/CVariables/Strings/Strings/bin/Debug/netcoreapp2.1/Strings.deps.json
+/Users/Admin/Desktop/CVariables/Strings/Strings/bin/Debug/netcoreapp2.1/Strings.runtimeconfig.json
+/Users/Admin/Desktop/CVariables/Strings/Strings/bin/Debug/netcoreapp2.1/Strings.runtimeconfig.dev.json
+/Users/Admin/Desktop/CVariables/Strings/Strings/bin/Debug/netcoreapp2.1/Strings.dll
+/Users/Admin/Desktop/CVariables/Strings/Strings/bin/Debug/netcoreapp2.1/Strings.pdb
+/Users/Admin/Desktop/CVariables/Strings/Strings/obj/Debug/netcoreapp2.1/Strings.csprojAssemblyReference.cache
+/Users/Admin/Desktop/CVariables/Strings/Strings/obj/Debug/netcoreapp2.1/Strings.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/CVariables/Strings/Strings/obj/Debug/netcoreapp2.1/Strings.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/CVariables/Strings/Strings/obj/Debug/netcoreapp2.1/Strings.AssemblyInfo.cs
+/Users/Admin/Desktop/CVariables/Strings/Strings/obj/Debug/netcoreapp2.1/Strings.dll
+/Users/Admin/Desktop/CVariables/Strings/Strings/obj/Debug/netcoreapp2.1/Strings.pdb
