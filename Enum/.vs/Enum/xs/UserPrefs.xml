@@ -1,8 +1,7 @@
-﻿<Properties StartupConfiguration="{E8C863FE-E8D0-4997-B51E-26FC10D9B3E2}|Default">
-  <MonoDevelop.Ide.ItemProperties.Strings PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Strings/Program.cs">
+﻿<Properties StartupConfiguration="{8ECEA80B-BCED-4B01-A0E3-CC9BF7574583}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Enum/Program.cs">
     <Files>
-      <File FileName="Strings/Program.cs" Line="22" Column="5" />
+      <File FileName="Enum/Program.cs" Line="9" Column="20" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +9,6 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Enum PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
   <MultiItemStartupConfigurations />
 </Properties>
