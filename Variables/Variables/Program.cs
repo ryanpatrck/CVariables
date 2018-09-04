@@ -1,23 +1,12 @@
-﻿using System;
-
-namespace TypeConversion
-{
-    class Program
+﻿class Program
     {
         static void Main(string[] args)
         {
-            try
-            {
-                string str = "true";
-                bool b = Convert.ToBoolean(str);
-                Console.WriteLine(b);
-            }
-            catch (Exception)
-            {
-                Console.WriteLine("The number could not be converted to a byte.");
+            var a = 10;
+            var b = a;
+            b++;
+            Console.WriteLine(string.Format("a: {0}, b: {1}",a, b));
 
-            }
-          
         }
     }
 }
