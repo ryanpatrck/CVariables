@@ -1,0 +1,11 @@
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.csprojAssemblyReference.cache
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.AssemblyInfo.cs
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.deps.json
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.runtimeconfig.json
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.runtimeconfig.dev.json
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.dll
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/bin/Debug/netcoreapp2.1/Conditionals.pdb
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.dll
+/Users/Admin/Desktop/CVariables/Conditionals/Conditionals/obj/Debug/netcoreapp2.1/Conditionals.pdb
