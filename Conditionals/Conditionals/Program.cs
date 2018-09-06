@@ -4,18 +4,31 @@ namespace Conditionals
 {
     class Program
     {
+        /// <summary>
+        /// Exercise 4
+        /// </summary>
+        /// <param name="args">The command-line arguments.</param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number: ");
-            var number1 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("What is the speed limit? ");
+            var speedLimit = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Enter another number: ");
-            var number2 = Convert.ToInt32(Console.ReadLine());
+            Console.Write("What is the speed of this car? ");
+            var carSpeed = Convert.ToInt32(Console.ReadLine());
 
-            var max = (number1 > number2) ? number1 : number2;
-            Console.WriteLine("Max is "+ max);
+            if (carSpeed < speedLimit)
+                Console.WriteLine("Ok");
+            else
+            {
+                const int kmPerDemeritPoint = 5;
+                var demeritPoints = (carSpeed - speedLimit) / kmPerDemeritPoint;
+                if (demeritPoints > 12)
+                    Console.WriteLine("License Suspended");
+                else
+                    Console.WriteLine("Demerit points: " + demeritPoints);
+            }
+
         }
-  
 
     }
 }
