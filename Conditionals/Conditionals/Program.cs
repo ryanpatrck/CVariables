@@ -6,22 +6,16 @@ namespace Conditionals
     {
         static void Main(string[] args)
         {
-            var hour = 10;
+            Console.WriteLine("Enter a number: ");
+            var number1 = Convert.ToInt32(Console.ReadLine());
 
-            if (hour > 0 && hour < 12)
-            {
-                Console.WriteLine("It's morning.");
-            }
+            Console.WriteLine("Enter another number: ");
+            var number2 = Convert.ToInt32(Console.ReadLine());
 
-            else if (hour >= 12 && hour < 18)
-            {
-                Console.WriteLine("It's afternoon.");
-            }
-
-            else
-            {
-                Console.WriteLine("It's evening.");
-            }
+            var max = (number1 > number2) ? number1 : number2;
+            Console.WriteLine("Max is "+ max);
         }
+  
+
     }
 }

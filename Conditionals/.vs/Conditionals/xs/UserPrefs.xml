@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{888E362E-40A8-4BD0-8630-3DAF5241B77F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Conditionals/Program.cs">
     <Files>
-      <File FileName="Conditionals/Program.cs" Line="9" Column="15" />
+      <File FileName="Conditionals/Program.cs" Line="18" Column="2" />
+      <File FileName="Conditionals/Season.cs" Line="11" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +11,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Conditionals PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
