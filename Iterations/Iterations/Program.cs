@@ -6,20 +6,13 @@ namespace Iterations
     {
         static void Main(string[] args)
         {
-            for (var i = 1; i <= 10; i++) 
+            var numbers = new int[] { 1, 2, 3, 4 };
+
+            foreach ( var number in numbers)
             {
-                if (i % 2 == 0) 
-                {
-                    Console.WriteLine(i);
-                }
-            }
-            for (var i = 10; i >= 1; i--)
-            {
-                if (i%2 == 0)
-                {
-                    Console.WriteLine(i);
-                }
+                Console.WriteLine(number);
             }
         }
+    
     }
 }
