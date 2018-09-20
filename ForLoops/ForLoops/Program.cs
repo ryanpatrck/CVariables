@@ -6,15 +6,20 @@ namespace ForLoops
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter a number: ");
-            var number = Convert.ToInt32(Console.ReadLine());
+            var number = new Random().Next(1, 10);
+            for (var i = 0; i < 4; i++)
+            {
+                Console.Write("Guess the secret number: ");
+                var guess = Convert.ToInt32(Console.ReadLine());
 
-            var factorial = 1;
-            for (var i = 1; i <= number; i++)
-                factorial *= i;
-
-            Console.WriteLine("{0}! = {1}", number, factorial);
+                if (guess == number)
+                {
+                    Console.WriteLine("You won!");
+                    return;
+                }
+            }
+            Console.WriteLine("You Lost!");
         }
-
+ 
     }
 }
