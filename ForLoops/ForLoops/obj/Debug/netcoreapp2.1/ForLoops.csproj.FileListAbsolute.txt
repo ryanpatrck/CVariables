@@ -1,0 +1,11 @@
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/obj/Debug/netcoreapp2.1/ForLoops.csprojAssemblyReference.cache
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/obj/Debug/netcoreapp2.1/ForLoops.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/obj/Debug/netcoreapp2.1/ForLoops.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/obj/Debug/netcoreapp2.1/ForLoops.AssemblyInfo.cs
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/bin/Debug/netcoreapp2.1/ForLoops.deps.json
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/bin/Debug/netcoreapp2.1/ForLoops.runtimeconfig.json
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/bin/Debug/netcoreapp2.1/ForLoops.runtimeconfig.dev.json
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/bin/Debug/netcoreapp2.1/ForLoops.dll
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/bin/Debug/netcoreapp2.1/ForLoops.pdb
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/obj/Debug/netcoreapp2.1/ForLoops.dll
+/Users/Admin/Desktop/CVariables/ForLoops/ForLoops/obj/Debug/netcoreapp2.1/ForLoops.pdb
